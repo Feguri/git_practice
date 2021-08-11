@@ -1,0 +1,1 @@
+Hello People of earth! This commit probably contains the solution for one of my Leet Code's problems.
